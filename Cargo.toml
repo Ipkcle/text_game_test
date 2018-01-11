@@ -1,0 +1,9 @@
+[package]
+name = "first_adventure"
+version = "0.1.0"
+authors = ["Adrian Fullmer <ipkcle@gmail.com>"]
+
+[dependencies]
+weg_ecs = { git = "https://github.com/Ipkcle/weg-ecs.git" }
+pancurses = "0.13"
+enumset = "0.3.3"
